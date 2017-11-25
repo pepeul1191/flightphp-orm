@@ -7,7 +7,6 @@
     "autoload": {
 	    "classmap": [
 	      "app/config",
-	      "app/controllers"
 	    ]
   	},
   	"config": {
