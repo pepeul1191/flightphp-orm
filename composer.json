@@ -6,7 +6,7 @@
     },
     "autoload": {
 	    "classmap": [
-	      "app/config",
+	      "app/config"
 	    ]
   	},
   	"config": {
